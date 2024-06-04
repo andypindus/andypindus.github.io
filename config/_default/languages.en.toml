@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Andy Pindus"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "AP-logo.png"
+description = "Andy Pindus"
+secondaryLogo = "AP-logo.png"
+
+[author]
+name = "Andy Pindus"
+image = "AI_Andy.jpg"
+headline = "DevOps | Cloud Solutions Architect"

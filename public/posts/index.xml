@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Andy Pindus</title>
+    <link>http://localhost:63957/posts/</link>
+    <description>Recent content in Posts on Andy Pindus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Andy Pindus</copyright>
+    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:63957/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrate Git Repository with LFS</title>
+      <link>http://localhost:63957/posts/migrate-git-repository-with-lfs/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:63957/posts/migrate-git-repository-with-lfs/</guid>
+      <description>Problem # When it comes to migrating a Git repository containing Large Files (LFS), it&amp;rsquo;s essential to address a fundamental aspect: Git repositories are generally not optimized for handling large files, typically exceeding 10MB.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63957/posts/migrate-git-repository-with-lfs/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Git Branching Strategies</title>
+      <link>http://localhost:63957/posts/git_branching/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:63957/posts/git_branching/</guid>
+      <description>Introduction # Branching strategies serve as the backbone of software development, influencing team dynamics, deployment frequency, and project success.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63957/posts/git_branching/featured.gif" />
+    </item>
+    
+  </channel>
+</rss>

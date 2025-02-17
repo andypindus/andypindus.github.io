@@ -7,7 +7,7 @@ draft = false
 
 Success in technology isn’t just about implementing the latest tools—it’s about building scalable, secure, and high-performing systems that drive business value. With extensive experience in cloud architecture, DevOps practices, and IT strategy, I specialize in transforming complex infrastructures into efficient, resilient, and cost-effective solutions.
 
-Beyond the technical side, I believe that high-impact teams are the backbone of any successful transformation. I focus on coaching, challenging, and enabling teams to adopt best practices, improve workflows, and embrace automation—allowing organizations to innovate faster without compromising reliability or security.
+Beyond the technical side, I believe that high-impact teams are the backbone of any successful transformation. I focus on **coaching, challenging, and enabling teams** to adopt best practices, improve workflows, and embrace automation—allowing organizations to innovate faster without compromising reliability or security.
 
 With a strong balance of technical depth and strategic vision, I help businesses navigate both immediate challenges and long-term goals—whether that means optimizing cloud spend, strengthening security postures, or streamlining DevOps pipelines for efficiency and scale.
 

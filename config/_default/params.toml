@@ -18,7 +18,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "profile"
-showRecent = true
+showRecent = false
 showRecentItems = "5"
 showMoreLink = false
 showMoreLinkDest = "/posts"

@@ -11,6 +11,6 @@ Beyond the technical side, I believe that high-impact teams are the backbone of 
 
 With a strong balance of technical depth and strategic vision, I help businesses navigate both immediate challenges and long-term goals—whether that means optimizing cloud spend, strengthening security postures, or streamlining DevOps pipelines for efficiency and scale.
 
-Outside of work, I stay active cycling through the city and training at the gym, always looking for new ways to push limits—both personally and professionally.
+Outside of work, I stay active cycling and training at the gym, always looking for new ways to push limits—both personally and professionally.
 
-Bringing the right mix of technology, strategy, and leadership, I help companies move beyond yesterday’s solutions and build for the future.
+**Bringing the right mix of technology, strategy, and leadership, I help companies move beyond yesterday’s solutions and build for the future.**

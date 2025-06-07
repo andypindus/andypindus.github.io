@@ -16,3 +16,7 @@ secondaryLogo = "AP-logo.png"
 name = "Andy Pindus"
 image = "AI_Andy.jpg"
 headline = "Technology Leader | Cloud, DevOps & GenAI Consultant | IT Strategy & Optimization"
+links = [
+     { email = "mailto:pindus.andy@gmail.com" },
+     { linkedin = "https://www.linkedin.com/in/andypindus/" },
+]

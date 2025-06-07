@@ -10,7 +10,7 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "AP-logo.png"
 description = "Andy Pindus"
-secondaryLogo = "AP-logo.png"
+secondaryLogo = "AP-logo-dark.png"
 
 [author]
 name = "Andy Pindus"
